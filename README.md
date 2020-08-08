@@ -1,8 +1,11 @@
 ### Hi there, I'm Peter 👋
-
 ## Sysadmin and a Linux geek
+I'm at the beginning of my journey form sysadmin to devops.
+I will try to cover everything involved in the process in my blog.
+Hopefully the content can be useful for someone else.
+
 - 🔭 I’m currently working on Windows Terminal theming tutorial
-- 🌱 I’m currently learning docker, kubernetess
+- 🌱 I’m currently learning Ansible
  
 <!-- 
 - 💬 Ask me about bash,
