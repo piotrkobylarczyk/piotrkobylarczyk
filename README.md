@@ -22,9 +22,9 @@ Hopefully the content can be useful for someone else.</br>
 
 [<img align="left" alt="piotrkobylarczyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/piotrkobylarczyk/) </br></br>
 ### Find me also on
-[HackerRank](https://www.hackerrank.com/PiotrKobylarczyk)
-
-
+[CodeWars](https://www.codewars.com/users/piotrkobylarczyk) </br>
+[CodersRank](https://profile.codersrank.io/user/piotrkobylarczyk) </br>
+[HackerRank](https://www.hackerrank.com/PiotrKobylarczyk) </br>
 
 <br />
 
