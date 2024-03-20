@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Piotr!👋
 
-<!--
-**piotrkobylarczyk/piotrkobylarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 DevOps | 🔐 Security | 🏠 Homelabbing | 🚀 Self-hosted enthusiast
 
-Here are some ideas to get you started:
+🔍 Constantly exploring the intersection of DevOps practices and cybersecurity, while tinkering with homelab setups and self-hosted solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Experienced in automation, CI/CD pipelines, infrastructure as code (IaC), and securing cloud-native environments.
+
+🔒 Advocating for privacy and security best practices in the digital landscape, with a penchant for learning and sharing knowledge.
+
+💻 Check out my links:
+
+Hack The Box
+TryHackMe
+[More coming soon...]
+Let's connect and collaborate on all things tech and security! 🚀
