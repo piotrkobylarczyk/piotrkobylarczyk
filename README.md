@@ -9,7 +9,7 @@ My areas of interest include:
 
 - Learning github to improve my workflow efficiency and get all 3 certs.
 
-Some badges and certification more or less worth mentioning:
+Achieved badges and certification more or less worth mentioning:
 ----
 
 **Tools:**
