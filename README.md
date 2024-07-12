@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Piotr</h1>
+<img align="right"  src="https://komarev.com/ghpvc/?username=piotrkobylarczyk&label=Profile%20views&color=0e75b6&style=flat" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Piotr+Kobylarczyk!;" />
+</h1>
+
+
 <h3 align="center">Tech Craftsman | System Engineer | Homelab Wizard</h3>
-🔍 I'm constantly exploring the intersection of DevOps practices and cybersecurity, while tinkering with homelab setups and self-hosted solutions.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrkobylarczyk&label=Profile%20views&color=0e75b6&style=flat" alt="piotrkobylarczyk" /> </p>
+
+<!--🔍 I'm constantly exploring the intersection of DevOps practices and cybersecurity, while tinkering with homelab setups and self-hosted solutions. -->
 
 
 - 🔭 I’m currently working on [homelab](https://github.com/piotrkobylarczyk/homelab)
