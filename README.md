@@ -29,5 +29,6 @@ Achieved badges and certification more or less worth mentioning:
   
 **Cybersecurity:**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotrkobylarczyk&show_icons=true&locale=en&layout=compact" alt="piotrkobylarczyk" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrkobylarczyk&theme=holi&show_icons=true)
+
 
