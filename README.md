@@ -1,11 +1,20 @@
 ### Hi, I'm Piotr!👋
 
+My areas of interest include:  
+👨‍💻 DevOps | 🔐 Cyber Security | 🏠 Homelabbing
   
-👨‍💻 DevOps | 🔐 Cyber Security | 🏠 Homelabbing | 🚀 Self-hosted enthusiast
-  
-🔍 Constantly exploring the intersection of DevOps practices and cybersecurity, while tinkering with homelab setups and self-hosted solutions.
+🔍 I'm constantly exploring the intersection of DevOps practices and cybersecurity, while tinkering with homelab setups and self-hosted solutions.
  
-🛠️ Experienced in automation, CI/CD pipelines, infrastructure as code (IaC), and securing cloud-native environments.
-  
-🔒 Advocating for privacy and security best practices in the digital landscape, with a penchant for learning and sharing knowledge.
+ Currently focussed on:
 
+- Learning github to improve my workflow efficiency and get all 3 certs.
+
+Some badges and certification more or less worth mentioning:
+----
+
+**Tools:**
+  
+**AI:**
+  
+**Cybersecurity:**
+  
