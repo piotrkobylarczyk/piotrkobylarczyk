@@ -23,10 +23,9 @@
 </p>
 
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,kali,docker,kubernetes,anslble" />  
-  <img src="https://skillicons.dev/icons?i=bash,powershell,html,css,nodejs,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=debian,arch,kali,docker,kubernetes,anslble,bash,powershell,html,css,nodejs,postgres" />  
 
 <br/>
 <hr/>
