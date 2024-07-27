@@ -49,10 +49,11 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
+<!--
 ## Certifications
 
 [![GitKraken Git Foundation](https://img.shields.io/badge/-GitKraken%20Git%20Foundation-179287?&style=for-the-badge&logo=GitKraken&logoColor=white)](https://learn.gitkraken.com/certificates/kxofd8ofky)
+-->
 
 <!--
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
