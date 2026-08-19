@@ -7,8 +7,6 @@
 
 <h3 align="center">Infrastracture Engineer | Homelab Enthusiast</h3>
 
-
-- 🔭 I’m currently working on [Homelab Documentation](https://github.com/piotrkobylarczyk/homelab)
 - Area of interest: 👨‍💻 DevOps | 🔐 Cyber Security | 🏠 Homelabbing
 
 <h2>Languages, Frameworks and Tools </h2>
