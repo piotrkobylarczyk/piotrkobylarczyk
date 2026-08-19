@@ -10,7 +10,6 @@ After hours: Linux, K3s lab, Monitoring, Security tooling.
 ### Public work
 - [checkmk_icons](https://github.com/piotrkobylarczyk/checkmk_icons) — custom themes for Check_MK RAW/CRE (≤1.6)
 - [voidwalker-planck](https://github.com/piotrkobylarczyk/voidwalker-planck) — QMK keymap for Planck EZ (Colemak-DH, home-row mods)
-- [dotfiles](https://github.com/piotrkobylarczyk/dotfiles) — personal shell / tooling
 
 Homelab docs and larger portfolio repos will land here when they are public.
 
