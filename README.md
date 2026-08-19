@@ -14,5 +14,5 @@ After hours: Linux, K3s lab, Monitoring, Security tooling.
 Homelab docs and larger portfolio repos will land here when they are public.
 
 ### Links
-- Site: [kobylarczyk.net](https://kobylarczyk.net) *(when live)*
+- Site: [kobylarczyk.net](https://kobylarczyk.net)
 - LinkedIn: [in/piotrkobylarczyk](https://www.linkedin.com/in/piotrkobylarczyk)
